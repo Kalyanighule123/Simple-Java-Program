@@ -3,6 +3,7 @@ public class AdditionOfTwoNumbers{
     {
         int a=90;
         int b=80;
-        System.out.println("Addition is"+  "  " +(a+b));
+        int c=a+b;
+        System.out.println("Addition is"+  "  " +c);
     }
 }
